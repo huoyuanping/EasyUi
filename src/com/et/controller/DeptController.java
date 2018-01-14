@@ -18,7 +18,7 @@ public class DeptController {
 	@Autowired
 	DeptService service;
 	/**
-	 * ²éÑ¯µÄ·½·¨
+	 * æŸ¥è¯¢çš„æ–¹æ³•
 	 */
 	@ResponseBody
 	@RequestMapping("/queryDept")
